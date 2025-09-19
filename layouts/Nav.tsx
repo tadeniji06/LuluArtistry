@@ -9,7 +9,7 @@ const Nav = () => {
 	const [open, setOpen] = useState(false);
 
 	return (
-		<nav className='relative mt-5'>
+		<nav className='relative mt-5 mb-5'>
 			{/* Desktop Nav */}
 			<div className='hidden md:flex justify-center items-center gap-10'>
 				{headerLinks.map((item, i) => (
