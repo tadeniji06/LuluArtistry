@@ -1,7 +1,13 @@
+import About from "@/components/about/About";
+import Mission from "@/components/about/Mission";
+import Waitlist from "@/components/Waitlist";
+
 const page = () => {
 	return (
 		<div>
-			<p>About</p>
+			<About />
+			<Mission />
+			<Waitlist />
 		</div>
 	);
 };

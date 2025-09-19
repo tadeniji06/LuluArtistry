@@ -15,11 +15,12 @@ import payment from "./icons/payment.png";
 import returns from "./icons/returns.png";
 import ship from "./icons/ship.png";
 import lulu from "./images/lulu.jpg";
-
+import aboutLulu from "./images/aboutLulu.jpg";
 export {
 	cart,
 	wishlist,
 	lulu,
+	aboutLulu,
 	login,
 	logo,
 	search,
