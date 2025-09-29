@@ -32,8 +32,8 @@ const Mission = () => {
 						Calabar to anywhere you are.
 					</li>
 					<li>
-						<strong>A Beauty Community That Cares</strong> – You're
-						not just a customer, you're family.
+						<strong>A Beauty Community That Cares</strong> – You&apos;re
+						not just a customer, you&apos;re family.
 					</li>
 				</ul>
 			</div>
